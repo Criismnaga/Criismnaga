@@ -7,7 +7,7 @@
 </p> 
 
 - 🌱 Estou aprendendo sobre `SpringBoot Java` na criação de microserviço e também `Python` para análise de dados. 
-- 👯 Estou ansiosa para colaborar em projetos Python e Java para assim me tornar desenvolvedoa Jr. 
+- 👯 Estou ansiosa para colaborar em projetos Python e Java para assim me tornar desenvolvedora Jr. 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Sou formada em Arquitetura e Urbanismo onde eu aprendi a admirar cidades e adoro atividades ao ar livre como andar de bike e correr.
 
