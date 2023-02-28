@@ -3,10 +3,10 @@
 </h2> 
 
 <p align="center"> 
-  Estou inciando na carreira de desenvolvimento software e estou bem entusiasmada com as jornada que tenho trilhado! Fui aluna do curso Next, Nova Experiência de Trabalho promovido pela instituição Cesar com foco nas linguagens Python e Java para Backend com associação ao SpringBoot Framework. <div>
+  Estou inciando na carreira de desenvolvimento software e estou bem entusiasmada com as jornada que tenho trilhado! Fui aluna do curso Next, Nova Experiência de Trabalho promovido pela instituição Cesar com foco nas linguagens Python (Django) e Java (SpringBoot). <div>
 </p> 
 
-- 🌱 Estou aprendendo sobre `SpringBoot Java` na criação de microserviço e também `Python` para análise de dados. 
+- 🌱 Estou aprendendo sobre `SpringBoot Java` na criação de microserviço e também `Python` para desenvolvimento web. 
 - 👯 Estou ansiosa para colaborar em projetos Python e Java para assim me tornar desenvolvedora Jr. 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Sou formada em Arquitetura e Urbanismo onde eu aprendi a admirar cidades e adoro atividades ao ar livre como andar de bike e correr.
