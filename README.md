@@ -17,16 +17,10 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
   <a href = "mailto:criismnaga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+  <img height="150em" src="http://git-stats-definitive.vercel.app/api?username=criismnaga&theme=tokyonight&show_icons=true" />
+  <img height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=criismnaga&layout=compact&theme=tokyonight" />
 
 <!---
-
-<img height="150em" src="http://git-stats-definitive.vercel.app/api?username=theomilll&theme=tokyonight&show_icons=true" />
-  <img height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=theomilll&layout=compact&theme=tokyonight" />
-	@@ -28,3 +28,7 @@
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
- </div><br>
-
 
 Criismnaga/Criismnaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
