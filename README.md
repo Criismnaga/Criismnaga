@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
   <a href = "mailto:criismnaga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+  
   <img height="150em" src="http://git-stats-definitive.vercel.app/api?username=criismnaga&theme=tokyonight&show_icons=true" />
   <img height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=criismnaga&layout=compact&theme=tokyonight" />
 
