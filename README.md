@@ -3,7 +3,7 @@
 </h2> 
 
 <p align="center"> 
-  Estou inciando na carreira de desenvolvimento software e estou bem entusiasmada com as jornada que tenho trilhado! Fui aluna do curso Next, Nova Experiência de Trabalho promovido pela instituição Cesar com foco nas linguagens Python (Django) e Java (SpringBoot). <div>
+  Estou inciando na carreira de desenvolvimento software e estou bem entusiasmada com as jornada que tenho trilhado! Fui aluna do curso Next, Nova Experiência de Trabalho promovido pela instituição Cesar com foco nas linguagens Python (Django) e Java (SpringBoot).
 </p> 
 
 - 🌱 Estou aprendendo sobre `Python e Django` para desenvolvimento web eos fundamentos de `C` . 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
   <a href = "mailto:criismnaga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  
+ - My Status:
   <img height="150em" src="http://git-stats-definitive.vercel.app/api?username=criismnaga&theme=tokyonight&show_icons=true" />
   <img height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=criismnaga&layout=compact&theme=tokyonight" />
 
