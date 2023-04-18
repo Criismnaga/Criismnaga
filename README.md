@@ -18,8 +18,7 @@
   <a href = "mailto:criismnaga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  - My Status:
-  <img height="150em" src="http://git-stats-definitive.vercel.app/api?username=criismnaga&theme=tokyonight&show_icons=true" />
-  <img height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=criismnaga&layout=compact&theme=tokyonight" />
+  <img height="150em" src="http://git-stats-definitive.vercel.app/api?username=criismnaga&theme=tokyonight&show_icons=true" /><img height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=criismnaga&layout=compact&theme=tokyonight" />
 
 <!---
 
