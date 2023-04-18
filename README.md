@@ -6,8 +6,8 @@
   Estou inciando na carreira de desenvolvimento software e estou bem entusiasmada com as jornada que tenho trilhado! Fui aluna do curso Next, Nova Experiência de Trabalho promovido pela instituição Cesar com foco nas linguagens Python (Django) e Java (SpringBoot). <div>
 </p> 
 
-- 🌱 Estou aprendendo sobre `SpringBoot Java` na criação de microserviço e também `Python` para desenvolvimento web. 
-- 👯 Estou ansiosa para colaborar em projetos Python e Java para assim me tornar desenvolvedora Jr. 
+- 🌱 Estou aprendendo sobre `Python e Django` para desenvolvimento web eos fundamentos de `C` . 
+- 👯 Estou ansiosa para colaborar em projetos e me tornar desenvolvedora Jr. 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Sou formada em Arquitetura e Urbanismo onde eu aprendi a admirar cidades e adoro atividades ao ar livre como andar de bike e correr.
 
@@ -20,10 +20,12 @@
 
 <!---
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
-</p>
+<img height="150em" src="http://git-stats-definitive.vercel.app/api?username=theomilll&theme=tokyonight&show_icons=true" />
+  <img height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=theomilll&layout=compact&theme=tokyonight" />
+	@@ -28,3 +28,7 @@
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+ </div><br>
 
 
 Criismnaga/Criismnaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
