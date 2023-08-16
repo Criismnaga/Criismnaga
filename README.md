@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=Daaaiii&repo=Daaaiii&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Total de Visitas no Github da Cris" width="200px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=criismnaga&repo=Daaaiii&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Total de Visitas no Github da Cris" width="200px" />
 </div>
 
 <!---
