@@ -17,9 +17,22 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
   <a href = "mailto:criismnaga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- - My Status:
- 
-<img height="150em" src="http://git-stats-definitive.vercel.app/api?username=criismnaga&theme=tokyonight&show_icons=true" /><img height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=criismnaga&layout=compact&theme=tokyonight" />
+ <h2 align="center"> 
+   My Status:
+</h2> 
+<div align = "center">
+  <img width="500px" src="http://git-stats-definitive.vercel.app/api?username=criismnaga&theme=tokyonight&show_icons=true"/>
+</div>
+<div align="center">
+  <img width="500px" src="https://streak-stats.demolab.com?user=criismnaga&theme=tokyonight" />
+</div>
+<div align = "center">
+  <img width="500px" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=criismnaga&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=Daaaiii&repo=Daaaiii&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Total de Visitas no Github da Cris" width="200px" />
+</div>
 
 <!---
 
